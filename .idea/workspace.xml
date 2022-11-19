@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="38ed1740-86a4-449f-93ef-04b52f0c1804" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GJmLH8QpmLAIVhWjrANeoOfNJo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tobia\OneDrive\Documents\Codefiles\scraper\src\main\java" />
+      <recent name="C:\Users\tobia\OneDrive\Documents\Codefiles\scraper\src\main\java\controller" />
+      <recent name="C:\Users\tobia\OneDrive\Documents\Codefiles\scraper\src\main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DbarkCrawl">
+    <configuration name="DbarkCrawl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DbarkCrawl" />
+      <module name="scraper" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="generated-requests | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" requestIdentifier="#1" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DbarkCrawl" />
+        <item itemvalue="HTTP Request.generated-requests | #1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38ed1740-86a4-449f-93ef-04b52f0c1804" name="Changes" comment="" />
+      <created>1666115002989</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666115002989</updated>
+      <workItem from="1666115004380" duration="298000" />
+      <workItem from="1666115336646" duration="3350000" />
+      <workItem from="1666548916008" duration="3000" />
+      <workItem from="1666595935335" duration="7712000" />
+      <workItem from="1667052691787" duration="1915000" />
+      <workItem from="1667402598196" duration="7000" />
+      <workItem from="1667402635817" duration="1000" />
+      <workItem from="1667901171969" duration="121000" />
+      <workItem from="1667901373824" duration="38000" />
+      <workItem from="1667901547190" duration="550000" />
+      <workItem from="1667979299031" duration="594000" />
+      <workItem from="1668777921813" duration="64000" />
+      <workItem from="1668778001436" duration="85000" />
+      <workItem from="1668778115113" duration="101000" />
+      <workItem from="1668778281050" duration="59000" />
+      <workItem from="1668778438899" duration="227000" />
+      <workItem from="1668778700942" duration="94000" />
+      <workItem from="1668778810848" duration="13000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
